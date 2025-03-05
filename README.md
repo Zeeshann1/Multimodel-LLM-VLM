@@ -1,5 +1,5 @@
-# Multimodel-LLM-VLM
-Multimodel LLM &amp; VLM
+# Multimodel LLM VLM
+Chat with Images and Videos
 
 ## Models:
 - InternVL2
