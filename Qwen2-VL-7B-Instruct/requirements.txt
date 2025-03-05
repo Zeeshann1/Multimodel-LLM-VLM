@@ -1,0 +1,12 @@
+#Install Conda environment:
+#conda create -n qwen2 python=3.11 -y && conda activate qwen2
+
+#Install required libraries:
+pip install torch
+pip install git+https://github.com/huggingface/transformers
+pip install git+https://github.com/huggingface/accelerate
+pip install qwen-vl-utils
+pip install torchvision
+pip install modelscope
+
+#python chat-with-image.py
